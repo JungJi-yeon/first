@@ -53,3 +53,10 @@
 10. `git status` 위 9번 업로드 되었는지 확인 (초록색 변경)
 11. `git commit -m '메세지'` 수정 파일에 대한 기록 메세지 작성
 12. `git push origin main` 깃허브 저장소에 업로드 
+----
+## HTML, META 속성
+* <html lang="ko"> html 문서 언어는 한국어
+* <meta charset="utf-8"> 문자열을 유닛코드로 다국어 지원한다
+* <meta name="description" content=""> ""라는 요약설명한다
+* <meta name="keywords" content=""> ""라는 키워드를 작성 한다
+----
